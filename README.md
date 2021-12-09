@@ -1,6 +1,6 @@
 # HTML_CSS_JS_PHP
 #JS,PHP
-
+[JS](https://github.com/sajithlakshan/HTML_CSS_JS_PHP/blob/main/JS/JS_Notis.md)
 
 | HTML| Inner Part  |
 | ------------- |:-------------:| 
