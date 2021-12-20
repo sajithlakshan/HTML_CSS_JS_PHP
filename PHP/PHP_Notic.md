@@ -17,6 +17,8 @@ method="post"
     SEND DATA TO SQL{HTML to SQL}
 [<img src= "https://user-images.githubusercontent.com/57319180/146254937-591e2b4d-f02e-413a-b5d4-c0826d3cd377.png" width="100" height = "100"/>](https://github.com/sajithlakshan/HTML_CSS_JS_PHP/tree/main/PHP/SEND%20DATA%20TO%20SQL)
 
+    Folder Activity
+[<img src= "https://user-images.githubusercontent.com/57319180/146254937-591e2b4d-f02e-413a-b5d4-c0826d3cd377.png" width="100" height = "100"/>](https://github.com/sajithlakshan/HTML_CSS_JS_PHP/tree/main/PHP/SEND%20DATA%20TO%20SQL)    
 
 
 
